@@ -10,7 +10,8 @@ class Fizzbuzz
       'buzz'
     elsif number.to_s.include? '6'
        'zz'
-    else   
+    else 
+
       number
     end
   end
